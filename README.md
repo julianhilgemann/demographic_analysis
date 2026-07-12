@@ -13,6 +13,10 @@ signature export, enriches it with official reference data down to the **Kreis**
 > rendered report, aggregated district-level statistics (`kreis_stats.csv`, minimum
 > granularity: one of 400 Kreise), public open data, and the pipeline code.
 
+**Tooling note:** this entire analysis — cleaning, enrichment, statistics, report and
+repo — was built with **Claude Fable** (Anthropic, via Claude Code) in **5 prompts**,
+roughly **300k tokens** and about **two hours** of wall-clock time.
+
 ---
 
 ## Key findings
