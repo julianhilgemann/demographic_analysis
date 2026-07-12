@@ -1,5 +1,18 @@
 # Petition Signature Analysis — 480k signatures, district-level demographics
 
+![Built with Claude Fable](https://img.shields.io/badge/built_with-Claude_Fable-c2371f?style=flat-square)
+![Prompts](https://img.shields.io/badge/prompts-5-171512?style=flat-square)
+![Tokens](https://img.shields.io/badge/tokens-~300k-171512?style=flat-square)
+![Time](https://img.shields.io/badge/wall--clock-~2h-171512?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-3.0-150458?style=flat-square&logo=pandas&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-4.4-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Signatures](https://img.shields.io/badge/signatures-480.000-3d5a80?style=flat-square)
+![Districts](https://img.shields.io/badge/Kreise-400-3d5a80?style=flat-square)
+![Report](https://img.shields.io/badge/report-standalone_HTML-3d5a80?style=flat-square)
+![Open Data](https://img.shields.io/badge/open_data-DL--DE_BY_2.0_·_CC--BY_4.0-4a7c59?style=flat-square)
+![No PII](https://img.shields.io/badge/PII-excluded-4a7c59?style=flat-square)
+
 Exploratory analysis of ~480,000 signatures from a German (psychotherapy-related) online
 petition, collected over a 60-hour window in July 2026. The project cleans the raw
 signature export, enriches it with official reference data down to the **Kreis**
