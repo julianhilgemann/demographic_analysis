@@ -1,0 +1,13 @@
+# Raw signature data — contains personal names. Never commit.
+Uschriften.csv
+Uschriften_clean.csv
+
+# Large re-fetchable reference data (source URLs in external/README.md and README.md)
+external/GISD_Bund.tsv
+external/gemeindeverzeichnis_gv100.xlsx
+external/geonames_plz_DE.txt
+external/kreise_geo.geojson
+external/bundeslaender_geo.geojson
+
+.DS_Store
+__pycache__/
